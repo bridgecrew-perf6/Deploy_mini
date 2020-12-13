@@ -1,0 +1,11 @@
+.example-div{
+    background-size: 100%;
+    width: 500px;
+    height: 200px;
+
+}
+.parent-div{
+    display:flex;
+    justify-content: center;
+    align-items:center;
+}
